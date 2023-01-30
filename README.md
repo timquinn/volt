@@ -1,5 +1,7 @@
 # [Django Admin Volt](https://appseed.us/product/volt-dashboard/django/)
 
+Tim's Fork
+
 Modern template for **Django** that covers `Admin Section`, all authentication pages (registration included) crafted on top of **[Volt Dashboard](https://appseed.us/product/volt-dashboard/django/)**, an open-source `Bootstrap 5` design from `Themesberg`.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
